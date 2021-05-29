@@ -9,3 +9,4 @@ The repository is about NLP introduction. It contains many materials and tutoria
 - https://www.youtube.com/watch?v=xvqsFTUsOmc
 
 ## Here are some good books:
+- https://github.com/jackson9413/NLP_Introduction/blob/main/Natural%20Language%20Processing%20with%20Python.pdf
